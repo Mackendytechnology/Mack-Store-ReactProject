@@ -1,0 +1,20 @@
+.productSection{
+    margin-bottom: 3.625rem;
+}
+
+.productList{
+    display: flex;
+    gap: 2.5rem;
+}
+
+.productList li{
+    min-width: 270px;
+    overflow: auto;
+
+}
+
+.productList img{
+    width: 17.5rem;
+    height: 11.25rem;
+    border-radius: 25px;
+}

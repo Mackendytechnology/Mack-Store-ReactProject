@@ -1,0 +1,14 @@
+.flexbox {
+    height: 124px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+} 
+
+.flexbox img{
+    width: 350px;
+    height: 200px;
+    
+}
